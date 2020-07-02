@@ -1,2 +1,5 @@
-# CL_Workshop_1
-Workshop from CL Bootcamp - only desktop version
+# CAR Share Page - desktop version
+
+##Procject was created on workshop. Main point was to create this layout using only HTML and CSS.
+
+
